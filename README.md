@@ -2,7 +2,7 @@
 ![MySql_1](https://github.com/user-attachments/assets/b7ef7f28-107f-4afb-98c1-ad9449be208b)
 
 # MySql
-### MySQL is an open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) to manage and manipulate data.It’s widely used for storing and retrieving data for web applications, and it’s known for its reliability, ease of use, and high performance. MySQL is part of the LAMP stack (Linux, Apache, MySQL, PHP/Perl/Python), making it a popular choice for developers building dynamic websites and applications.
+#### MySQL is an open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) to manage and manipulate data.It’s widely used for storing and retrieving data for web applications, and it’s known for its reliability, ease of use, and high performance. MySQL is part of the LAMP stack (Linux, Apache, MySQL, PHP/Perl/Python), making it a popular choice for developers building dynamic websites and applications.
 ### Key features of MySQL include:
 #### •	ACID Compliance: Ensures data integrity and supports transactions with features like rollback and commit.
 #### •	High Performance: Optimized for fast read and write operations.
