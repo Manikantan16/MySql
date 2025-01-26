@@ -20,8 +20,19 @@
 # Example Queries
 ### Here are some example queries you can run against the database:
 
-### 1.Create a table:
+#### 1. CREATE A TABLE:
+![crt](https://github.com/user-attachments/assets/04c83e09-d7b1-4eab-af50-6cd0b6359331)
 
+#### 2. INSERT DATA:
+![ins](https://github.com/user-attachments/assets/b14d6aa0-b1f9-4e9f-8bf1-cec83b936d96)
 
+#### 3. FETCH DATA:
+![fetch](https://github.com/user-attachments/assets/bf9f1542-e651-4da7-a99b-95993848b1b3)
+
+#### 4. UPDATE DATA:
+![update](https://github.com/user-attachments/assets/54c27edd-f04b-4e1b-97ce-20c5bb15edd2)
+
+#### 5. DELETE DATA:
+![del](https://github.com/user-attachments/assets/5de3e31f-165d-41bb-ad3c-c5433bad7a8c)
 
 
